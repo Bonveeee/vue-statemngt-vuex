@@ -1,4 +1,4 @@
-# vue-2
+# simple vuex implementation
 
 ## Project setup
 ```
